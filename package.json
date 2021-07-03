@@ -1,0 +1,34 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "react-native-webview": "^11.6.5"
+  },
+  "name": "react-native-payfast-gateway",
+  "description": "A react native component to integrate with PayFast via a webview/API calls.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francktamala/react-native-payfast-gateway.git"
+  },
+  "keywords": [
+    "Payfast",
+    "gateway",
+    "react-native",
+    "react",
+    "native",
+    "payment",
+    "Payfast_SA",
+    "payment_Gateway"
+  ],
+  "author": "Franck Tamala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francktamala/react-native-payfast-gateway/issues"
+  },
+  "homepage": "https://github.com/francktamala/react-native-payfast-gateway#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
