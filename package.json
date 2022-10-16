@@ -6,7 +6,7 @@
   },
   "name": "react-native-payfast-gateway",
   "description": "A react native component to integrate with PayFast via a webview/API calls.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/francktamala/react-native-payfast-gateway.git"
