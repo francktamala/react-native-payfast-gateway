@@ -113,12 +113,4 @@ export default function App() {
 | passphrase | String | The passphrase set on your PayFast/Sandbox account for use in conjunction with the signature generation | `passphrase={"passphrase"}` |
 | callback | function | A function that handle the response. The response is `True` if the payment was successful and `False` otherwise | `callback={setSuccess}` |
 | onClick | function | The action that happens when the user clicks on the button on the successful or unsuccessful page | `onClick={() => setModalVisible(false)}` |
-| style | object | Pass in custom styles to the component to make the look and feel match for the app. All `values` are strings except ``showLogo`` | `style={{
-            headText: "You almost there!",
-            headTextColor: "black",
-            headBackground: "#fff",
-            bodyBackground: "white",
-            bodyTextColor: "#16003B",
-            showLogo: true,
-            pageBackground: "black",
-          }}`
+| style | object | Pass in custom styles to the component to make the look and feel match for the app. All `values` are strings except ``showLogo`` | `style={{            headText: "You almost there!", headTextColor: "black", headBackground: "#fff", bodyBackground: "white", bodyTextColor: "#16003B", showLogo: true,  pageBackground: "black", }}`
